@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ch16/src/ch16/Data.java&apos; to &apos;DateEx.java&apos;" description="Rename resource &apos;Data.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/ch16/Data.java" name="DateEx.java" stamp="1668044099048" updateReferences="true"/>
+</session>

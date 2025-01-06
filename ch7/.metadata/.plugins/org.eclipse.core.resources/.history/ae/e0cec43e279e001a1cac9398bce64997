@@ -1,0 +1,13 @@
+package ch7s;
+
+import java.util.Vector;
+
+public class M01 {
+
+	public static void main(String[] args) {
+		Vector<Integer> v = new Vector<Integer>();
+		
+
+	}
+
+}

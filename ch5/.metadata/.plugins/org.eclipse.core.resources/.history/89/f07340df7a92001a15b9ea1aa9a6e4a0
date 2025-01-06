@@ -1,0 +1,10 @@
+package ch5s;
+
+public class NamedCircle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

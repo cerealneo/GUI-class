@@ -1,0 +1,13 @@
+package ch5s;
+
+class A {
+    public A(int x) { System.out.print("A" + x); }
+}
+public class M61 extends A {
+    public M61(int x) {
+		super(x);
+		// TODO Auto-generated constructor stub
+	}
+	public B (super(20) { System.out.print("B"); }
+    public A (int x) {super(50) System.out.print("B" + x); }
+}

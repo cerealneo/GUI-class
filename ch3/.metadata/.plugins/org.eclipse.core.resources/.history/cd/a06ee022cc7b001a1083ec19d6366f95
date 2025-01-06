@@ -1,0 +1,16 @@
+package ch3;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class everyday {
+	public everyday() {}
+	public void run() {
+		
+	}
+	public static void main(String[] args) {
+		everyday add  = new everyday();
+		add.run();
+	}
+	
+}
